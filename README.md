@@ -8,7 +8,7 @@
   body{font-family:Arial, sans-serif; background:#0c1a20; color:#fff; padding:20px;}
   .card{max-width:700px; margin:auto; background:#122832; border-radius:16px; padding:20px;}
   input,select,button{width:100%; padding:10px; margin:5px 0; border-radius:8px; border:none;}
-  button{background:#e63946; color:#fff; font-weight:bold; cursor:pointer;}
+  button{background:#e63946; color:#fff; font-weight:bo kild; cursor:pointer;}
   .badge{display:inline-block; background:#1d3b4b; padding:6px 12px; border-radius:12px; margin:3px;}
 </style>
 </head>
